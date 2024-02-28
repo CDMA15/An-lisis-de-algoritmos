@@ -1,0 +1,34 @@
+C:\Users\WENDY CALIZAYA\source\repos\Pila\bin\Debug\net6.0-windows\Pila.exe
+C:\Users\WENDY CALIZAYA\source\repos\Pila\bin\Debug\net6.0-windows\Pila.deps.json
+C:\Users\WENDY CALIZAYA\source\repos\Pila\bin\Debug\net6.0-windows\Pila.runtimeconfig.json
+C:\Users\WENDY CALIZAYA\source\repos\Pila\bin\Debug\net6.0-windows\Pila.dll
+C:\Users\WENDY CALIZAYA\source\repos\Pila\bin\Debug\net6.0-windows\Pila.pdb
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\Pila.csproj.AssemblyReference.cache
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\Pila.Form1.resources
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\Pila.csproj.GenerateResource.cache
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\Pila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\Pila.AssemblyInfoInputs.cache
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\Pila.AssemblyInfo.cs
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\Pila.csproj.CoreCompileInputs.cache
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\Pila.dll
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\refint\Pila.dll
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\Pila.pdb
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\Pila.genruntimeconfig.cache
+C:\Users\WENDY CALIZAYA\source\repos\Pila\obj\Debug\net6.0-windows\ref\Pila.dll
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\bin\Debug\net6.0-windows\Pila.exe
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\bin\Debug\net6.0-windows\Pila.deps.json
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\bin\Debug\net6.0-windows\Pila.runtimeconfig.json
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\bin\Debug\net6.0-windows\Pila.dll
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\bin\Debug\net6.0-windows\Pila.pdb
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\Pila.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\Pila.Form1.resources
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\Pila.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\Pila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\Pila.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\Pila.AssemblyInfo.cs
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\Pila.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\Pila.dll
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\refint\Pila.dll
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\Pila.pdb
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\Pila.genruntimeconfig.cache
+C:\Users\crist\Desktop\5to SEM\Analisis de Algoritmos\Pila\obj\Debug\net6.0-windows\ref\Pila.dll

@@ -1,0 +1,17 @@
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\bin\Debug\net6.0-windows\ProyectoCOLA.exe
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\bin\Debug\net6.0-windows\ProyectoCOLA.deps.json
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\bin\Debug\net6.0-windows\ProyectoCOLA.runtimeconfig.json
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\bin\Debug\net6.0-windows\ProyectoCOLA.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\bin\Debug\net6.0-windows\ProyectoCOLA.pdb
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ProyectoCOLA.csproj.AssemblyReference.cache
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ProyectoCOLA.Form1.resources
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ProyectoCOLA.csproj.GenerateResource.cache
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ProyectoCOLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ProyectoCOLA.AssemblyInfoInputs.cache
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ProyectoCOLA.AssemblyInfo.cs
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ProyectoCOLA.csproj.CoreCompileInputs.cache
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ProyectoCOLA.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\refint\ProyectoCOLA.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ProyectoCOLA.pdb
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ProyectoCOLA.genruntimeconfig.cache
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoCOLA\obj\Debug\net6.0-windows\ref\ProyectoCOLA.dll
